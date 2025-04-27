@@ -7,6 +7,9 @@ A simple Python package to interact with the free [image-upscaling.net](https://
 - **Upload Images**: Send images to the upscaling service with 2 enhancement options.
 - **Query Status**: Retrieve the processing status of your images, categorized as waiting, completed, or in progress. This will give you the urls to download processed images.
 
+## Full Example Notebook:
+https://github.com/dercodeKoenig/image-upscaling.net_API/blob/main/upscale_api/image_upscaling_api_demo.ipynb
+
 ## Installation
 
 Install the package using pip:
@@ -70,9 +73,6 @@ This project is licensed under the MIT License.
 
 ## Source code:
 https://github.com/dercodeKoenig/image-upscaling.net_API
-
-## Full Example Notebook:
-https://github.com/dercodeKoenig/image-upscaling.net_API/blob/main/upscale_api/image_upscaling_api_demo.ipynb
 
 
 
