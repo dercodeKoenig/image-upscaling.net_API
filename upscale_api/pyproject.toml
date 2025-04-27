@@ -1,0 +1,31 @@
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[project]
+name = "image_upscaling_api"
+version = "2025.0.10"
+dependencies = [
+  "requests"
+]
+requires-python = ">=3.8"
+authors = [
+  {name = "Marvin Eckhardt", email = ""}
+]
+maintainers = [
+  {name = "Marvin Eckhardt", email = ""}
+]
+description = "image-upscaling.net api client"
+readme = "README.md"
+
+keywords = ["upscale", "image upscale", "ai", "image-processing", "image-upscaling", "super-resolution",
+  "machine-learning", "deep-learning", "api", "free"]
+classifiers = [
+"Programming Language :: Python",
+"License :: OSI Approved :: MIT License",
+"Topic :: Scientific/Engineering :: Image Processing",
+]
+[tool.hatch.metadata]
+allow-direct-references = true
+[project.urls]
+Homepage = "https://image-upscaling.net"
