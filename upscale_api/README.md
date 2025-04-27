@@ -69,10 +69,10 @@ Join our Discord for updates, discussions, or support: https://discord.gg/utXujg
 This project is licensed under the MIT License.
 
 ## Source code:
-[https://github.com/dercodeKoenig/image-upscaling.net_API](https://github.com/dercodeKoenig/image-upscaling.net_API)
+https://github.com/dercodeKoenig/image-upscaling.net_API
 
 ## Full Example Notebook:
-[https://github.com/dercodeKoenig/image-upscaling.net_API/blob/main/upscale_api/image_upscaling_api_demo.ipynb](https://github.com/dercodeKoenig/image-upscaling.net_API/blob/main/upscale_api/image_upscaling_api_demo.ipynb)
+https://github.com/dercodeKoenig/image-upscaling.net_API/blob/main/upscale_api/image_upscaling_api_demo.ipynb
 
 
 
